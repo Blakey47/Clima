@@ -5,6 +5,9 @@
 //  Created by Angela Yu on 24/08/2015.
 //  Copyright (c) 2015 London App Brewery. All rights reserved.
 //
+//  Skeleton project clone 20/10/2017.
+//  Darragh Blake
+//
 
 import UIKit
 
